@@ -1,3 +1,4 @@
 
 
-git init          =>      initializing empty git repository
+git init          =>	initializing empty git repository
+git add .         =>	add all changes from working directory to staging directory
