@@ -8,3 +8,4 @@ git status	=>	show the changes that were made
 git log		=>	list of all commits
 git commit -am "Msg"	=>	add and commit together(does not work if file is untracked)
 git push origin <branch_name>	=>	push to Github repository
+git push -u origin <branch_name>	=>	push untracked files also to Github repository
