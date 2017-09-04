@@ -6,3 +6,4 @@ git commit -m "Message" =>	commit to repository with specific message
 git add <filename.type>	=>	add specific file to the directory
 git status	=>	show the changes that were made
 git log		=>	list of all commits
+git commit -am "Msg"	=>	add and commit together(does not work if file is untracked)
