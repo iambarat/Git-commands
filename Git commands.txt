@@ -3,3 +3,4 @@
 git init          =>	initializing empty git repository
 git add .         =>	add all changes from working directory to staging directory
 git commit -m "Message" =>	commit to repository with specific message
+git add <filename.type>	=>	add specific file to the directory
