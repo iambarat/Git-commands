@@ -1,0 +1,3 @@
+
+
+git init          =>      initializing empty git repository
