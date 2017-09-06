@@ -16,3 +16,4 @@ git branch -d <branch_name>	=>	safely delete the branch
 git branch -D <branch_name>	=>	unsafely delete the branch
 git push origin -d <branch_name>	=>	delete branch from remote repository
 git checkout -b <branch_name>	=>	creates ans switches to the branch
+git checkout -- file_name	=>	discards any change in working directory
