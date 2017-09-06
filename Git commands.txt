@@ -11,3 +11,4 @@ git push origin <branch_name>	=>	push to Github repository(only for tracked file
 git push -u origin <branch_name>	=>	push all files to Github repository
 git pull origin <branch_name>	=>	fetch from Github repository
 git branch <branch_name>	=>	creates a new branch
+git checkout <branch_name>	=>	switches to the branch_name
