@@ -18,4 +18,4 @@ git push origin -d <branch_name>	=>	delete branch from remote repository
 git checkout -b <branch_name>	=>	creates ans switches to the branch
 git checkout -- file_name	=>	discards any change in working directory
 git reset HEAD file_name	=>	unstage a file
- 
+git commit --amend -m "Message"	=>	change the last commit
