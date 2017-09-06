@@ -14,3 +14,4 @@ git branch <branch_name>	=>	creates a new branch
 git checkout <branch_name>	=>	switches to the branch_name
 git branch -d <branch_name>	=>	safely delete the branch
 git branch -D <branch_name>	=>	unsafely delete the branch
+git push origin -d <branch_name>	=>	delete branch from remote repository
