@@ -20,3 +20,5 @@ git checkout -- file_name	=>	discards any change in working directory
 git reset HEAD file_name	=>	unstage a file
 git commit --amend -m "Message"	=>	change the last commit
 git checkout HASH_NO. -- file_name	=>	switches head to the staging directory of that HASH_NO.(all modification after that HASH_NO. commit is discarded)
+git diff	=>	show all changes
+git diff <file_name>	=>	show changes in the file
